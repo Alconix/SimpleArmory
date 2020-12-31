@@ -914,7 +914,7 @@
           },
           {
             "ID": "1262",
-            "icon": "ability_mount_seahorse",
+            "icon": "inv_hippocampusmount_black",
             "itemId": 169203,
             "name": "Inkscale Deepseeker",
             "spellid": 300151
@@ -948,7 +948,7 @@
           },
           {
             "ID": "1253",
-            "icon": "creatureportrait_babyspider",
+            "icon": "inv_mechagonspidertank_silver",
             "itemId": 168827,
             "name": "Scrapforged Mechaspider",
             "spellid": 299159
@@ -970,7 +970,7 @@
           },
           {
             "ID": "1255",
-            "icon": "inv_snapdragonmount01",
+            "icon": "inv_snapdragonmount03",
             "itemId": 169200,
             "name": "Deepcoral Snapdragon",
             "side": "A",
@@ -978,7 +978,7 @@
           },
           {
             "ID": "1013",
-            "icon": "inv_beemount",
+            "icon": "inv_bee_default",
             "itemId": 170069,
             "name": "Honeyback Harvester",
             "side": "A",
@@ -1037,7 +1037,7 @@
           },
           {
             "ID": "1216",
-            "icon": "inv_saber3mount",
+            "icon": "inv_nightsaber2mountwhite",
             "itemId": 166463,
             "name": "Priestess' Moonsaber",
             "side": "A",
@@ -1243,7 +1243,7 @@
           },
           {
             "ID": "1254",
-            "icon": "achievement_dungeon_mogulrazdunk",
+            "icon": "inv_hunterkillershipred",
             "itemId": 168829,
             "name": "Rustbolt Resistor",
             "spellid": 299170
@@ -1276,7 +1276,7 @@
         "items": [
           {
             "ID": "1239",
-            "icon": "inv_pet_mechanicaltigercub",
+            "icon": "inv_mechanicaltiger_grey",
             "itemId": 167751,
             "name": "X-995 Mechanocat",
             "spellid": 294143
@@ -1337,7 +1337,7 @@
           },
           {
             "ID": "1258",
-            "icon": "ability_mount_seahorse",
+            "icon": "inv_hippocampusmount_white",
             "itemId": 169201,
             "name": "Fabious",
             "spellid": 300150
@@ -1351,7 +1351,7 @@
           },
           {
             "ID": "1229",
-            "icon": "creatureportrait_babyspider",
+            "icon": "inv_mechagonspidertank_junker",
             "itemId": 168823,
             "name": "Rusty Mechanocrawler",
             "spellid": 291492
@@ -1564,14 +1564,14 @@
           },
           {
             "ID": "1252",
-            "icon": "creatureportrait_babyspider",
+            "icon": "inv_mechagonspidertank_brass",
             "itemId": 168826,
             "name": "Mechagon Peacekeeper",
             "spellid": 299158
           },
           {
             "ID": "1227",
-            "icon": "achievement_dungeon_mogulrazdunk",
+            "icon": "inv_hunterkillershipyellow",
             "itemId": 168830,
             "name": "Aerial Unit R-21/X",
             "spellid": 290718
